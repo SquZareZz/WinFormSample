@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace ShippingOrderCOAFilter
+namespace WinFormSample
 {
     internal class ForIT_Test
     {

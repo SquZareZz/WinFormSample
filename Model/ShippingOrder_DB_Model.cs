@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShippingOrderCOAFilter.Model
+namespace WinFormSample.Model
 {
     //出貨單相關的 Model
     public class ShippingOrder_DB_Model

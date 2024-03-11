@@ -1,0 +1,26 @@
+17:03:20 [INFO] 2024-03-11 17:03:20 - [Form1_Load] - 程式啟動
+17:03:20 [INFO] 2024-03-11 17:03:20 - [Form1_Load] - 設定提示文字
+17:03:20 [INFO] 2024-03-11 17:03:20 - [Form1_Load] - 初始化列表格
+17:03:20 [INFO] 2024-03-11 17:03:20 - [Form1_Load] - 建構 LogicAgent
+17:03:15 [INFO] 2024-03-11 17:04:15 - [Form1_Load] - 程式啟動
+17:03:15 [INFO] 2024-03-11 17:04:15 - [Form1_Load] - 設定提示文字
+17:03:15 [INFO] 2024-03-11 17:04:15 - [Form1_Load] - 初始化列表格
+17:03:15 [INFO] 2024-03-11 17:04:15 - [Form1_Load] - 建構 LogicAgent
+17:03:19 [INFO] 2024-03-11 17:04:19 - [ScanShipoutRecipt_Click] - 搜尋出貨單
+17:03:19 [INFO] 2024-03-11 17:04:19 - [MainFormHandler] - 查找資料庫
+17:03:19 [INFO] 2024-03-11 17:04:19 - [MainFormHandler] - 整理片號資訊
+17:03:19 [INFO] 2024-03-11 17:04:19 - [MainFormHandler] - 資訊上傳到 listView
+17:03:21 [INFO] 2024-03-11 17:04:21 - [OpenDirectory_Click] - 開啟資料夾
+17:03:24 [INFO] 2024-03-11 17:04:24 - [OpenDirectory_Click] - 取得 COA 檔案的資料
+17:03:25 [INFO] 2024-03-11 17:04:25 - [OpenDirectory_Click] - 取得來自 DB 的 COA 資料
+17:03:26 [INFO] 2024-03-11 17:04:26 - [MainFormHandler] - 查詢資料庫資訊
+17:03:27 [INFO] 2024-03-11 17:04:27 - [COA_Preview_Click] - 開啟 COA 資料預覽畫面
+17:03:28 [INFO] 2024-03-11 17:04:28 - [ShippingOrderPreview_Click] - 開啟出貨單預覽畫面
+17:03:30 [INFO] 2024-03-11 17:04:30 - [Filter_Click] - 依據出貨單批號檢查資料夾內檔名是否相同
+17:03:30 [INFO] 2024-03-11 17:04:30 - [MainFormHandler] - 確認目標項目是否變色
+17:03:30 [INFO] 2024-03-11 17:04:30 - [MainFormHandler] - 更新 MainForm 上的列表項目
+17:03:32 [INFO] 2024-03-11 17:04:32 - [Check_COA_with_Order_Click] - 核對出貨單與 COA 資訊
+17:03:32 [INFO] 2024-03-11 17:04:32 - [MainFormHandler] - 確認目標項目是否變色
+17:03:32 [INFO] 2024-03-11 17:04:32 - [MainFormHandler] - 確認目標項目是否變色
+17:03:39 [INFO] 2024-03-11 17:04:39 - [Clear_Click] - 清理主畫面項目
+17:03:39 [INFO] 2024-03-11 17:04:39 - [ClearAll] - 清除所有已填入資料

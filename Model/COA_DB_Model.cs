@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShippingOrderCOAFilter.Model
+namespace WinFormSample.Model
 {
     //找 COA DB 相關的 Model
     public class COA_DB_Model

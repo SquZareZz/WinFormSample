@@ -1,5 +1,5 @@
 ﻿
-namespace ShippingOrderCOAFilter
+namespace WinFormSample
 {
     partial class Form1
     {

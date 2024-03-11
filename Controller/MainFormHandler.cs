@@ -1,6 +1,6 @@
 ﻿using Dapper;
 using Oracle.ManagedDataAccess.Client;
-using ShippingOrderCOAFilter.Model;
+using WinFormSample.Model;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -14,7 +14,7 @@ using System.Windows.Forms;
 using static System.Windows.Forms.LinkLabel;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace ShippingOrderCOAFilter.Controller
+namespace WinFormSample.Controller
 {
     // 負責處理所有主程式的邏輯控制，以 MVC 結構來說是它的 C(Controller)
     public class MainFormHandler

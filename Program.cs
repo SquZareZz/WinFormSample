@@ -1,4 +1,4 @@
-namespace ShippingOrderCOAFilter
+namespace WinFormSample
 {
     internal static class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace ShippingOrderCOAFilter.View
+﻿namespace WinFormSample.View
 {
     partial class SubForm2
     {

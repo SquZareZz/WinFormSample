@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShippingOrderCOAFilter.Model
+namespace WinFormSample.Model
 {
     public class SQL_Condition_Model
     {

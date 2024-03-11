@@ -31,9 +31,6 @@ D:\WinFormSample\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Directo
 D:\WinFormSample\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.csproj.AssemblyReference.cache
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.Properties.Resources.resources
-D:\WinFormSample\obj\Debug\net6.0-windows\ShippingOrderCOAFilter.Form1.resources
-D:\WinFormSample\obj\Debug\net6.0-windows\ShippingOrderCOAFilter.View.SubForm.resources
-D:\WinFormSample\obj\Debug\net6.0-windows\ShippingOrderCOAFilter.View.SubForm2.resources
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.csproj.GenerateResource.cache
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.GeneratedMSBuildEditorConfig.editorconfig
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.AssemblyInfoInputs.cache
@@ -45,3 +42,6 @@ D:\WinFormSample\obj\Debug\net6.0-windows\refint\WinFormSample.dll
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.pdb
 D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.genruntimeconfig.cache
 D:\WinFormSample\obj\Debug\net6.0-windows\ref\WinFormSample.dll
+D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.Form1.resources
+D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.View.SubForm.resources
+D:\WinFormSample\obj\Debug\net6.0-windows\WinFormSample.View.SubForm2.resources

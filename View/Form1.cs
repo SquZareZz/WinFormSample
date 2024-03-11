@@ -1,9 +1,9 @@
 using Dapper;
 using NLog;
 using Oracle.ManagedDataAccess.Client;
-using ShippingOrderCOAFilter.Controller;
-using ShippingOrderCOAFilter.Model;
-using ShippingOrderCOAFilter.View;
+using WinFormSample.Controller;
+using WinFormSample.Model;
+using WinFormSample.View;
 using System.ComponentModel;
 using System.Data.SqlClient;
 using System.Diagnostics;
@@ -15,7 +15,7 @@ using static System.Windows.Forms.ListView;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Tab;
 
-namespace ShippingOrderCOAFilter
+namespace WinFormSample
 {
     public partial class Form1 : Form
     {

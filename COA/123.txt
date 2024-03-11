@@ -1,0 +1,6 @@
+Product:
+SAMPLE_CUST_PN
+LotID:
+SAMPLE_LotNO
+Customer:
+SAMPLE_Code

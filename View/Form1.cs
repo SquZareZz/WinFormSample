@@ -661,7 +661,7 @@ namespace ShippingOrderCOAFilter
             ListViewItem lstrow = listview.GetItemAt(e.X, e.Y);
             ListViewItem.ListViewSubItem lstcol = lstrow.GetSubItemAt(e.X, e.Y);
             string strText = lstcol.Text;
-            // 在這裡處理 ListView 中 Item 被激活的事件邏輯
+            // 在這裡處理 ListView 中 Item 被點擊的事件邏輯
             try
             {
                 Clipboard.SetDataObject(strText);

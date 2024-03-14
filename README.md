@@ -143,5 +143,5 @@ Reset 按鈕被按下以後，重置所有資訊，包含 FormModel（呼叫 [Cl
 ### MoveFilesToOrderedDirectory
 <font color=red>**程式最終目標，搬移指定檔案到指定目錄底下**
 
-### ScanShipoutRecipt
+### SendMailEvent
 <font color=red>**程式最終目標，寄送結果信件給使用者**

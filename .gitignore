@@ -1,0 +1,41 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.txt
+*.mht
+
+
+# Folders
+_obj
+_test
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+_testmain.go
+
+*.exe
+!utilities/**/*.exe
+*.test
+*.prof
+
+dist
+src/v*
+bin/*.exe
+!bin/buildtools/*
+bin/*.zip
+bin/Debug/*.7z
+bin/nvm/*
+COA_PDF
+log
+
+!.gitignore
+!.gitattributes
